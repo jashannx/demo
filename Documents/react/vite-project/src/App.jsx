@@ -6,7 +6,9 @@ function App() {
   return (
     <div>
       <Title />
-      <p>This is a simple React application.</p>
+      <p>This is a simple React application.
+        Jass
+      </p>
     </div>
   );
 }
